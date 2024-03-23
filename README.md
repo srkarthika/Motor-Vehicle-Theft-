@@ -14,3 +14,5 @@ What types of vehicles are most often and least often stolen? Does this vary by 
 What is the average age of the vehicles that are stolen? Does this vary based on the vehicle type?
 
 Which regions have the most and least number of stolen vehicles? What are the characteristics of the regions?
+
+
